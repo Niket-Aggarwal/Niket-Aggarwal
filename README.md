@@ -19,8 +19,3 @@ Hi everyone! 👋<br>I’m a tech enthusiast driven by curiosity and a passion f
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-<!-- [![](https://komarev.com/ghpvc/?username=Niket-Aggarwal&icon=0&color=5)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
