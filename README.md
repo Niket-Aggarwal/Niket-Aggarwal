@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi everyone! 👋<br>I’m a tech enthusiast driven by curiosity and a passion for building andsecuring digital experiences. I’m constantly working on sharpening my skills, with a strong interest in cybersecurity understanding vulnerabilities, exploring ethical hacking concepts, and learning how to build safer systems.<br><br>Alongside that, I enjoy web development and love bringing ideas to life through clean, responsive, and user-friendly interfaces. From crafting front-end designs to understanding back-end logic, I’m always exploring new tools and technologies to improve my development workflow.<br><br>🚀 Tech Enthusiast | 🌐 Web Developer | 🔐 Cybersecurity Learner<br>
+Hi everyone! 👋
+<br><br>
+I'm a passionate Web Developer who enjoys building modern, responsive, and user-friendly web applications. I love turning ideas into interactive digital experiences and continuously improving my skills across front-end and back-end development. Whether it's creating clean UI designs, or exploring new web technologies, I'm always eager to learn and build. My current Tech Stack is MERN
+<br><br>
+Alongside web development, I have a growing interest in Cybersecurity and enjoy learning about secure coding practices, common vulnerabilities, and the fundamentals of ethical hacking.
+<br><br>
+🚀 Web Developer | ⚛️ MERN | 🌐 Tech Explorer | 🔐 Cybersecurity Learner
 
 
 ## 🌐 Socials:
