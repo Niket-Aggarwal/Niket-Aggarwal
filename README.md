@@ -60,15 +60,6 @@ I am a passionate **Software Developer** & **Cybersecurity Enthusiast** dedicate
   </a>
 </p>
 
-<br />
-
-## 📊 GitHub Statistics
-<div align="center">
-  <p>
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Niket-Aggarwal&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  </p>
-</div>
-
 <p align="center">
   <sub><i>"Keep learning, keep building, keep securing."</i> 🚀</sub>
 </p>
