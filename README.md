@@ -15,13 +15,13 @@
 </div>
 
 ## ⚡ About Me
-I am a passionate **Software Developer** & **Cybersecurity Enthusiast** dedicated to building secure, performant, and user-friendly applications. I focus on full-stack web development, backend systems, and application security.
+I am a passionate **Software Developer** & **Cybersecurity Enthusiast** dedicated to building secure, performant and user-friendly applications. I focus on full-stack web development, backend systems and application security
 
-- 🔭 **Currently Working On:** Web applications, backend services, and security research.
-- 🐍 **Core Tech:** Python, C++, JavaScript, React, Node.js, Express, Django & FastAPI.
-- 🛡️ **Cybersecurity Focus:** Ethical hacking fundamentals, web application security, and secure coding practices.
-- 👯 **Looking to Collaborate On:** Open-source projects, security tools, and web apps.
-- 💬 **Ask Me About:** Web Development, Python, C++, REST APIs, and Security fundamentals.
+- 🔭 **Currently Working On:** Web applications, backend services, and security research
+- 🐍 **Core Tech:** Python, C++, JavaScript, React, Node.js, Express, Django & FastAPI
+- 🛡️ **Cybersecurity Focus:** Ethical hacking fundamentals, web application security and secure coding practices
+- 👯 **Looking to Collaborate On:** Open-source projects, security tools, and web apps
+- 💬 **Ask Me About:** Web Development, Python, C++, REST APIs, and Security fundamentals
 
 ## 🛠️ Tech Stack & Tools
 
@@ -61,5 +61,5 @@ I am a passionate **Software Developer** & **Cybersecurity Enthusiast** dedicate
 </p>
 
 <p align="center">
-  <sub><i>"Keep learning, keep building, keep securing."</i> 🚀</sub>
+  <sub><i>"Keep learning, keep building, keep securing"</i> 🚀</sub>
 </p>
