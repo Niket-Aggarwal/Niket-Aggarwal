@@ -15,7 +15,7 @@
 I am an **Aspiring CyberSecurity Analyst** and **Passionate Web Developer** dedicated to understanding how systems break so I can help build ones that don't. I focus on making web application secure and network security and writing code with a security-first mindset
 
 - 🔭 **Currently Working On:** Security research, hands-on labs and CTF practice, and security-focused tooling
-- 🛡️ **Cybersecurity Focus:** Ethical hacking fundamentals, web application security, network security, vulnerability assessment
+- 🛡️ **Cybersecurity Focus:** Security fundamentals, web application security, network security, vulnerability assessment
 - 🐍 **Core Tech:** Python, C++, JavaScript, Linux & Bash scripting
 - 🌐 **Dev Background:** React, Node.js, Express, Django & FastAPI, which helps me understand applications from both the attacker's and the builder's side
 - 💬 **Ask Me About:** Cybersecurity basics, Web Security, Python, C++, REST API security, and getting started in ethical hacking
@@ -25,7 +25,6 @@ I am an **Aspiring CyberSecurity Analyst** and **Passionate Web Developer** dedi
 |------|--------------------|
 | 🕷️ **Web Application Security** | OWASP Top 10, injection, XSS, CSRF, broken authentication and access control |
 | 🌐 **Network Security** | Scanning, traffic analysis, protocols and common attack surfaces |
-| 🧪 **Ethical Hacking** | Reconnaissance, enumeration, vulnerability assessment and responsible disclosure |
 | 🔑 **Cryptography & Auth** | Hashing, encryption basics, secure sessions, JWT and password storage |
 | 🏁 **CTFs & Labs** | Practicing offensive and defensive skills in legal, controlled environments |
 | 🧑‍💻 **Secure Coding** | Input validation, least privilege, dependency hygiene and threat modeling |
